@@ -1,4 +1,5 @@
 # Lee Tae Hun
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeTH916&show_icons=true&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thoon916)](https://solved.ac/thoon916/)
 # Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
