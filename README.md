@@ -1,5 +1,4 @@
-### Hi there 👋
-
+# [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thoon916)](https://solved.ac/thoon916/)
 <!--
 **LeeTH916/LeeTH916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
