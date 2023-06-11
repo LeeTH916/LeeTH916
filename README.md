@@ -9,8 +9,8 @@
 
 ![arduino](https://img.shields.io/badge/arduino-00979D.svg?&style=for-the-badge&logo=arduino&logoColor=white)
 ![processing](https://img.shields.io/badge/processing-006699.svg?&style=for-the-badge&logo=processingfoundation&logoColor=white)
-![visualstudio](https://img.shields.io/badge/visualstudio-5C2D91.svg?&style=for-the-badge&logo=visualstudio&logoColor=white)
-![visualstudiocode](https://img.shields.io/badge/visualstudiocode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![visualstudio](https://img.shields.io/badge/visual%20studio-5C2D91.svg?&style=for-the-badge&logo=visualstudio&logoColor=white)
+![visualstudiocode](https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
 <!--
