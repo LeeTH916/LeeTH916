@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D8&height=150&section=header&text=Lee%20Tae%20Hun&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=30)
 # LeeTH916 ![github](https://img.shields.io/badge/-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeTH916&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeTH916&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeTH916&layout=compact)
 # BOJ Tier
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thoon916)](https://solved.ac/thoon916/)
