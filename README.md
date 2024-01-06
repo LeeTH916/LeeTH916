@@ -6,18 +6,21 @@
 # BOJ Tier
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thoon916)](https://solved.ac/thoon916/)
 # Languages and Tools
+![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?&style=for-the-badge&logo=Typescript&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![c](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![c++](https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
+
+![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+
+![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+![postgreSQL](https://img.shields.io/badge/postgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![sqlite](https://img.shields.io/badge/sqlite-003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
 
-![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
-![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-
-![arduino](https://img.shields.io/badge/arduino-00979D.svg?&style=for-the-badge&logo=arduino&logoColor=white)
-![processing](https://img.shields.io/badge/processing-006699.svg?&style=for-the-badge&logo=processingfoundation&logoColor=white)
-![visualstudio](https://img.shields.io/badge/visual%20studio-5C2D91.svg?&style=for-the-badge&logo=visualstudio&logoColor=white)
-![visualstudiocode](https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?&style=for-the-badge&logo=NestJS&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=Express&logoColor=white)
 
 
 <!--
